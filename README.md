@@ -69,6 +69,8 @@ CKEDITOR.plugins.add('ezimage', {
     })
 </script>
 ```
+![ezimage_example1](https://github.com/chooco13/ckeditor_plugins/raw/master/resources/ezimage%20example.png)  
+![ezimage_example2](https://github.com/chooco13/ckeditor_plugins/raw/master/resources/ezimage%20example2.png)
 
 ## iframe insert
 just modify `iframe.js` in original plugin
@@ -140,3 +142,4 @@ just modify `iframe.js` in original plugin
     });
 </script>
 ```
+![iframe_example](https://github.com/chooco13/ckeditor_plugins/raw/master/resources/iframe%20example.png)
