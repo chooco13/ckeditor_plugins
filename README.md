@@ -1,4 +1,4 @@
-# ckeditor plugin share
+# ckeditor plugin tip share
 
 this is just how I did.
 
